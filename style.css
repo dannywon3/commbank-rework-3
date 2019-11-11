@@ -410,7 +410,7 @@ button {
     left: 0;
     height: 585px;
     width: 1085px;
-    background-image: url("/images/sea.jpg");
+    background-image: url("images/sea.jpg");
     background-size: cover;
     z-index: -2;
     margin-left: 10vw;
@@ -422,7 +422,7 @@ button {
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url("/images/sea-just.png");
+    background-image: url("images/sea-just.png");
     background-size: cover;
     filter: url("#turbulence");
     z-index: -1;
@@ -537,7 +537,7 @@ button {
     left: 0;
     height: 585px;
     width: 1085px;
-    background-image: url("/images/sea2.jpg");
+    background-image: url("images/sea2.jpg");
     background-size: cover;
     z-index: -2;
     margin-left: 5vw;
@@ -549,7 +549,7 @@ button {
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url("/images/sea2.png");
+    background-image: url("images/sea2.png");
     background-size: cover;
     filter: url("#turbulence");
     z-index: -1;
@@ -649,7 +649,7 @@ button {
     left: 0;
     height: 585px;
     width: 1085px;
-    background-image: url("/images/sea3.jpg");
+    background-image: url("images/sea3.jpg");
     background-size: cover;
     z-index: -2;
     margin-left: 0vw;
@@ -661,7 +661,7 @@ button {
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url("/images/sea3.png");
+    background-image: url("images/sea3.png");
     background-size: cover;
     filter: url("#turbulence");
     z-index: -1;
@@ -759,7 +759,7 @@ button {
     left: 0;
     height: 585px;
     width: 1085px;
-    background-image: url("/images/sea4.jpg");
+    background-image: url("images/sea4.jpg");
     background-size: cover;
     z-index: -2;
     margin-left: 0vw;
@@ -771,7 +771,7 @@ button {
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url("/images/sea4.png");
+    background-image: url("images/sea4.png");
     background-size: cover;
     filter: url("#turbulence");
     z-index: -1;
